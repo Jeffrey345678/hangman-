@@ -69,7 +69,7 @@ char preval; //-- prevalidation of legit char
 // Two statements below check number of tries if there are none it tells fail if more than one success
 	if (tries==0)	
 	{
-		cout << "Fail!" << endl;
+		cout << "Fail!!!!!!!!" << endl; // added more exclamation marks 
 		cout << "The word was \"" << solution << "\"." << endl;
 	}
 	else
